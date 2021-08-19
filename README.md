@@ -1,4 +1,4 @@
-# FriendApp
+# Bffl
 ![Screenshot of Mockup User Interface](./assets/proposalScreenShot.png)
 
 Many young adults report feeling lonely, and making friends can be difficult as we get older. Bffl aims to help adults forge new platonic friendships with our matchmaking service. What makes this matchmaking service different from other applications is that we focus on interaction and building a connection before revealing what users look like!
