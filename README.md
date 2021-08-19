@@ -7,6 +7,8 @@ Many young adults report feeling lonely, and making friends can be difficult as 
 - Users will select an avatar/bitmoji instead of a profile photo to focus on other forms of interaction before revealing what users look like.
 -test
 
+Deployed live application: https://infinite-sea-39529.herokuapp.com/
+
 ## Summary
 - [Installation](#installation)
 - [Technologies](#technologies)
